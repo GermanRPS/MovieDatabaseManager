@@ -1,0 +1,2 @@
+# MovieDatabaseManager
+Movies database manager
